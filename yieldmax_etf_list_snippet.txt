@@ -1,0 +1,47 @@
+self.etf_paths = {
+    'TSLY': '/https://www.yieldmaxetfs.com/our-etfs/tsly/',  # TSLA Option Income
+    'OARK': '/https://www.yieldmaxetfs.com/our-etfs/oark/',  # Innovation Option Income
+    'APLY': '/https://www.yieldmaxetfs.com/our-etfs/aply/',  # AAPL Option Income
+    'NVDY': '/https://www.yieldmaxetfs.com/our-etfs/nvdy/',  # NVDA Option Income
+    'AMZY': '/https://www.yieldmaxetfs.com/our-etfs/amzy/',  # AMZN Option Income
+    'FBY': '/https://www.yieldmaxetfs.com/our-etfs/fby/',  # META Option Income
+    'GOOY': '/https://www.yieldmaxetfs.com/our-etfs/gooy/',  # GOOGL Option Income
+    'CONY': '/https://www.yieldmaxetfs.com/our-etfs/cony/',  # COIN Option Income
+    'NFLY': '/https://www.yieldmaxetfs.com/our-etfs/nfly/',  # NFLX Option Income
+    'DISO': '/https://www.yieldmaxetfs.com/our-etfs/diso/',  # DIS Option Income
+    'MSFO': '/https://www.yieldmaxetfs.com/our-etfs/msfo/',  # MSFT Option Income
+    'XOMO': '/https://www.yieldmaxetfs.com/our-etfs/xomo/',  # XOM Option Income
+    'JPMO': '/https://www.yieldmaxetfs.com/our-etfs/jpmo/',  # JPM Option Income
+    'AMDY': '/https://www.yieldmaxetfs.com/our-etfs/amdy/',  # AMD Option Income
+    'PYPY': '/https://www.yieldmaxetfs.com/our-etfs/pypy/',  # PYPL Option Income
+    'SQY': '/https://www.yieldmaxetfs.com/our-etfs/sqy/',  # XYZ Option Income
+    'MRNY': '/https://www.yieldmaxetfs.com/our-etfs/mrny/',  # MRNA Option Income
+    'AIYY': '/https://www.yieldmaxetfs.com/our-etfs/aiyy/',  # AI Option Income
+    'MSTY': '/https://www.yieldmaxetfs.com/our-etfs/msty/',  # MSTR Option Income
+    'YBIT': '/https://www.yieldmaxetfs.com/our-etfs/ybit-bitcoin-option-income-etf/',  # Bitcoin Option Income
+    'GDXY': '/https://www.yieldmaxetfs.com/our-etfs/gdxy/',  # Gold Miners Option Income
+    'SNOY': '/https://www.yieldmaxetfs.com/our-etfs/snoy/',  # SNOW Option Income
+    'ABNY': '/https://www.yieldmaxetfs.com/our-etfs/abny/',  # ABNB Option Income
+    'BABO': '/https://www.yieldmaxetfs.com/our-etfs/babo/',  # BABA Option Income
+    'TSMY': '/https://www.yieldmaxetfs.com/our-etfs/tsmy/',  # TSM Option Income
+    'SMCY': '/https://www.yieldmaxetfs.com/our-etfs/smcy/',  # SMCI Option Income
+    'PLTY': '/https://www.yieldmaxetfs.com/our-etfs/plty/',  # PLTR Option Income
+    'MARO': '/https://www.yieldmaxetfs.com/our-etfs/maro/',  # MARA Option Income
+    'CVNY': '/https://www.yieldmaxetfs.com/our-etfs/cvny/',  # CVNA Option Income
+    'YMAX': '/https://www.yieldmaxetfs.com/our-etfs/ymax/',  # Universe FoF
+    'YMAG': '/https://www.yieldmaxetfs.com/our-etfs/ymag/',  # Magnificent 7 FoF
+    'FIVY': '/https://www.yieldmaxetfs.com/our-etfs/fivy/',  # Dorsey Wright Hybrid 5 Income
+    'FEAT': '/https://www.yieldmaxetfs.com/our-etfs/feat/',  # Dorsey Wright Featured 5 Income
+    'ULTY': '/https://www.yieldmaxetfs.com/our-etfs/ulty/',  # Ultra Option Income
+    'CRSH': '/https://www.yieldmaxetfs.com/our-etfs/crsh/',  # Short TSLA Option Income
+    'FIAT': '/https://www.yieldmaxetfs.com/our-etfs/fiat/',  # Short COIN Option Income
+    'DIPS': '/https://www.yieldmaxetfs.com/our-etfs/dips/',  # Short NVDA Option Income
+    'YQQQ': '/https://www.yieldmaxetfs.com/our-etfs/yqqq/',  # Short N100 Option Income
+    'BIGY': '/https://www.yieldmaxetfs.com/our-etfs/bigy/',  # Target 12™ Big 50 Option Income
+    'SOXY': '/https://www.yieldmaxetfs.com/our-etfs/soxy/',  # Target 12™ Semiconductor Option Income
+    'LFGY': '/https://www.yieldmaxetfs.com/our-etfs/lfgy/',  # Crypto Portfolio Option Income
+    'GPTY': '/https://www.yieldmaxetfs.com/our-etfs/gpty/',  # Al & Tech Portfolio Option Income
+    'SDTY': '/https://www.yieldmaxetfs.com/our-etfs/sdty/',  # S&P 500 0DTE Option Income
+    'QDTY': '/https://www.yieldmaxetfs.com/our-etfs/qdty/',  # Nasdaq 100 0DTE Option Income
+    'RDTY': '/https://www.yieldmaxetfs.com/our-etfs/rdty/',  # R2000 0DTE Option Income
+}

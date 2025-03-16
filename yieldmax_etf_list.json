@@ -1,0 +1,227 @@
+{
+  "TSLY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/tsly/",
+    "name": "TSLA Option Income",
+    "category": "Our ETFs"
+  },
+  "OARK": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/oark/",
+    "name": "Innovation Option Income",
+    "category": "Our ETFs"
+  },
+  "APLY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/aply/",
+    "name": "AAPL Option Income",
+    "category": "Our ETFs"
+  },
+  "NVDY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/nvdy/",
+    "name": "NVDA Option Income",
+    "category": "Our ETFs"
+  },
+  "AMZY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/amzy/",
+    "name": "AMZN Option Income",
+    "category": "Our ETFs"
+  },
+  "FBY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/fby/",
+    "name": "META Option Income",
+    "category": "Our ETFs"
+  },
+  "GOOY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/gooy/",
+    "name": "GOOGL Option Income",
+    "category": "Our ETFs"
+  },
+  "CONY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/cony/",
+    "name": "COIN Option Income",
+    "category": "Our ETFs"
+  },
+  "NFLY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/nfly/",
+    "name": "NFLX Option Income",
+    "category": "Our ETFs"
+  },
+  "DISO": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/diso/",
+    "name": "DIS Option Income",
+    "category": "Our ETFs"
+  },
+  "MSFO": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/msfo/",
+    "name": "MSFT Option Income",
+    "category": "Our ETFs"
+  },
+  "XOMO": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/xomo/",
+    "name": "XOM Option Income",
+    "category": "Our ETFs"
+  },
+  "JPMO": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/jpmo/",
+    "name": "JPM Option Income",
+    "category": "Our ETFs"
+  },
+  "AMDY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/amdy/",
+    "name": "AMD Option Income",
+    "category": "Our ETFs"
+  },
+  "PYPY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/pypy/",
+    "name": "PYPL Option Income",
+    "category": "Our ETFs"
+  },
+  "SQY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/sqy/",
+    "name": "XYZ Option Income",
+    "category": "Our ETFs"
+  },
+  "MRNY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/mrny/",
+    "name": "MRNA Option Income",
+    "category": "Our ETFs"
+  },
+  "AIYY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/aiyy/",
+    "name": "AI Option Income",
+    "category": "Our ETFs"
+  },
+  "MSTY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/msty/",
+    "name": "MSTR Option Income",
+    "category": "Our ETFs"
+  },
+  "YBIT": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/ybit-bitcoin-option-income-etf/",
+    "name": "Bitcoin Option Income",
+    "category": "Our ETFs"
+  },
+  "GDXY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/gdxy/",
+    "name": "Gold Miners Option Income",
+    "category": "Our ETFs"
+  },
+  "SNOY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/snoy/",
+    "name": "SNOW Option Income",
+    "category": "Our ETFs"
+  },
+  "ABNY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/abny/",
+    "name": "ABNB Option Income",
+    "category": "Our ETFs"
+  },
+  "BABO": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/babo/",
+    "name": "BABA Option Income",
+    "category": "Our ETFs"
+  },
+  "TSMY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/tsmy/",
+    "name": "TSM Option Income",
+    "category": "Our ETFs"
+  },
+  "SMCY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/smcy/",
+    "name": "SMCI Option Income",
+    "category": "Our ETFs"
+  },
+  "PLTY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/plty/",
+    "name": "PLTR Option Income",
+    "category": "Our ETFs"
+  },
+  "MARO": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/maro/",
+    "name": "MARA Option Income",
+    "category": "Our ETFs"
+  },
+  "CVNY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/cvny/",
+    "name": "CVNA Option Income",
+    "category": "Our ETFs"
+  },
+  "YMAX": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/ymax/",
+    "name": "Universe FoF",
+    "category": "CVNY (CVNA Option Income)"
+  },
+  "YMAG": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/ymag/",
+    "name": "Magnificent 7 FoF",
+    "category": "CVNY (CVNA Option Income)"
+  },
+  "FIVY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/fivy/",
+    "name": "Dorsey Wright Hybrid 5 Income",
+    "category": "SOXY (Target 12\u2122 Semiconductor Option Income)"
+  },
+  "FEAT": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/feat/",
+    "name": "Dorsey Wright Featured 5 Income",
+    "category": "SOXY (Target 12\u2122 Semiconductor Option Income)"
+  },
+  "ULTY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/ulty/",
+    "name": "Ultra Option Income",
+    "category": "FEAT (Dorsey Wright Featured 5 Income)"
+  },
+  "CRSH": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/crsh/",
+    "name": "Short TSLA Option Income",
+    "category": "ULTY (Ultra Option Income)"
+  },
+  "FIAT": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/fiat/",
+    "name": "Short COIN Option Income",
+    "category": "ULTY (Ultra Option Income)"
+  },
+  "DIPS": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/dips/",
+    "name": "Short NVDA Option Income",
+    "category": "ULTY (Ultra Option Income)"
+  },
+  "YQQQ": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/yqqq/",
+    "name": "Short N100 Option Income",
+    "category": "ULTY (Ultra Option Income)"
+  },
+  "BIGY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/bigy/",
+    "name": "Target 12\u2122 Big 50 Option Income",
+    "category": "YQQQ (Short N100 Option Income)"
+  },
+  "SOXY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/soxy/",
+    "name": "Target 12\u2122 Semiconductor Option Income",
+    "category": "YQQQ (Short N100 Option Income)"
+  },
+  "LFGY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/lfgy/",
+    "name": "Crypto Portfolio Option Income",
+    "category": "FIVY (Dorsey Wright Hybrid 5 Income)"
+  },
+  "GPTY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/gpty/",
+    "name": "Al & Tech Portfolio Option Income",
+    "category": "FIVY (Dorsey Wright Hybrid 5 Income)"
+  },
+  "SDTY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/sdty/",
+    "name": "S&P 500 0DTE Option Income",
+    "category": "GPTY (Al & Tech Portfolio Option Income)"
+  },
+  "QDTY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/qdty/",
+    "name": "Nasdaq 100 0DTE Option Income",
+    "category": "GPTY (Al & Tech Portfolio Option Income)"
+  },
+  "RDTY": {
+    "url": "/https://www.yieldmaxetfs.com/our-etfs/rdty/",
+    "name": "R2000 0DTE Option Income",
+    "category": "GPTY (Al & Tech Portfolio Option Income)"
+  }
+}
